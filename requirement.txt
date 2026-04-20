@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+av
+numpy
+scipy
+torch
+transformers
+openai-whisper
+gtts
