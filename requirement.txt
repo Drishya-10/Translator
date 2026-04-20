@@ -1,5 +1,6 @@
 streamlit
 streamlit-webrtc
+aiortc
 av
 numpy
 scipy
@@ -7,3 +8,6 @@ torch
 transformers
 openai-whisper
 gtts
+ffmpeg-python
+soundfile
+pydub
